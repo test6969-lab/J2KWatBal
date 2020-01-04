@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578125120626.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B9C34BE1",
+    "lastKnownWriteTime" : 1578134593,
+    "last_content_update" : 1578134593414,
+    "path" : "D:/R/CreatingPackage/J2KWatBal/R/Info.R",
+    "project_path" : "R/Info.R",
+    "properties" : {
+        "cursorPosition" : "2,435",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

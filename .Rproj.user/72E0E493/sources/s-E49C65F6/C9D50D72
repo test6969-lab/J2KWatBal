@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578123590646.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "13|34|52|0|\n68|37|139|0|\n156|45|245|0|\n",
+    "hash" : "0",
+    "id" : "C9D50D72",
+    "lastKnownWriteTime" : 1578134421,
+    "last_content_update" : 1578134421733,
+    "path" : "D:/R/CreatingPackage/J2KWatBal/R/WatBal.R",
+    "project_path" : "R/WatBal.R",
+    "properties" : {
+        "cursorPosition" : "325,46",
+        "scrollLine" : "147",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
